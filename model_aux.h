@@ -1,0 +1,2 @@
+const NUMBER_OF_CLASSES = 6;
+const char *classIdToName[NUMBER_OF_CLASSES] = {"class0_bearingNormal", "class1_bearingContaminated", "class2_bearingErosion", "class3_bearingFlaking", "class4_bearingNoLubrication", "class5_bearingLocalizedFault"};
